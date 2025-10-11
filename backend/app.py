@@ -1,0 +1,1 @@
+"from flask import Flask, jsonify\nfrom flask_cors import CORS\napp = Flask(__name__)\nCORS(app)\n@app.route('/')\ndef home():\n    return jsonify({'message': 'OrientAI API funcionando!'})\nif __name__ == '__main__':\n    app.run(debug=True)" 

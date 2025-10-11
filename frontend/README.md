@@ -1,0 +1,1 @@
+"# Frontend - OrientAI\n\n## Setup (Vue 3)\n1. Rodar \`npm install\`\n2. Criar arquivo .env com:\n   VITE_API_URL=http://localhost:5000/api\n3. Rodar localmente:\n   \`npm run dev\`\n4. Build para deploy:\n   \`npm run build\`\n\n## Estrutura esperada\n- src/\n  - components/\n  - api/" 

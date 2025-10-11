@@ -1,0 +1,1 @@
+"# Backend - OrientAI\n\n## Rodar localmente\n1. Criar venv:\n   \`\`\`bash\n   python -m venv venv\n   venv\\Scripts\\activate\n   pip install -r requirements.txt\n   python app.py\n   \`\`\`\n\n2. Testar em http://localhost:5000/\n\n## Estrutura esperada\n- app.py  API principal\n- models.py  Banco de dados\n- config.py  Configura‡äes\n- requirements.txt  dependˆncias" 

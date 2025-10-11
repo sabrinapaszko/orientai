@@ -1,0 +1,1 @@
+"# Documenta‡Æo do Projeto OrientAI\n\n## Conte£do:\n- Fluxograma geral\n- Diagramas de API\n- Tarefas por dev\n- Cronograma (10 semanas)\n\n## Ferramentas recomendadas\n- Miro (diagramas)\n- Draw.io\n- Notion ou Google Docs" 
