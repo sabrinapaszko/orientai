@@ -1,1 +1,10 @@
-"# AI - OrientAI\n\nAqui ficar† a l¢gica de recomendaá∆o (integraá∆o Hugging Face).\n\n## Exemplo de funá∆o\n\`\`\`python\ndef generate_recommendations(answers_text):\n    # TODO: integrar modelo real\n    return ['Engenharia da Computaá∆o', 'F°sica', 'Ciància da Computaá∆o']\n\`\`\`\n\n## Rodar testes locais\n\`\`\`bash\npython test_ia.py\n\`\`\`" 
+# AI - OrientAI
+
+Aqui fica a l√≥gica de recomenda√ß√£o (integra√ß√£o com Hugging Face).
+
+## Exemplo de fun√ß√£o
+
+```python
+def generate_recommendations(answers_text):
+    # TODO: integrar modelo real
+    return ['Engenharia da Computa√ß√£o', 'F√≠sica', 'Ci√™ncia da Computa√ß√£o']
