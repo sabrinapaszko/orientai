@@ -1,1 +1,18 @@
-# ?? OrientAI - MVP\nPlataforma de orienta‡Æo universit ria com IA.\n\n## Estrutura do Projeto\n- **frontend/**  Interface (Vue + Axios)\n- **backend/**  API (Flask)\n- **ai/**  L¢gica de IA (Hugging Face)\n- **docs/**  Diagramas, fluxos e documenta‡Æo\n\n## Como rodar cada parte\nVeja os READMEs internos em cada pasta.\n\n## Tecnologias Principais\n- Frontend: Vue 3 + Axios\n- Backend: Flask + SQLAlchemy\n- Banco: SQLite (dev) / PostgreSQL (prod)\n- IA: Hugging Face API\n- Deploy: Render (backend) + Vercel (frontend)
+# OrientAI - MVP
+Plataforma de orientação universitária com IA.
+
+## Estrutura do Projeto
+- **frontend/** – Interface (Vue 3 + Axios)  
+- **backend/** – API (Flask + SQLAlchemy)  
+- **ai/** – Lógica de IA (Hugging Face)  
+- **docs/** – Diagramas, fluxos e documentação  
+
+## Como rodar cada parte
+Veja os READMEs internos em cada pasta.
+
+## Tecnologias Principais
+- **Frontend:** Vue 3 + Axios  
+- **Backend:** Flask + SQLAlchemy  
+- **Banco de Dados:** SQLite (desenvolvimento) / PostgreSQL (produção)  
+- **IA:** Hugging Face API  
+- **Deploy:** Render (backend) + Vercel (frontend)
