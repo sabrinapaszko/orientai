@@ -5,7 +5,6 @@ Plataforma de orientação universitária com IA.
 - **frontend/** – Interface (Vue 3 + Axios)  
 - **backend/** – API (Flask + SQLAlchemy)  
 - **ai/** – Lógica de IA (Hugging Face)  
-- **docs/** – Diagramas, fluxos e documentação  
 
 ## Como rodar cada parte
 Veja os READMEs internos em cada pasta.
