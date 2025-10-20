@@ -61,17 +61,6 @@
           <div class="footer-section">
             <h3>OrientAI</h3>
             <p>Plataforma de inteligência artificial que ajuda estudantes a descobrir cursos e faculdades ideais para seu futuro.</p>
-            <div class="social-links">
-              <a href="https://linkedin.com" target="_blank" aria-label="LinkedIn">L</a>
-              <a href="https://instagram.com" target="_blank" aria-label="Instagram">I</a>
-            </div>
-          </div>
-          <div class="footer-section">
-            <h3>Links Rápidos</h3>
-            <ul class="footer-links">
-              <li><a href="#" @click="rolarParaSecao">Como funciona</a></li>
-              <li><a href="mailto:contato@orientai.com">Contato</a></li>
-            </ul>
           </div>
           <div class="footer-section">
             <h3>Contato</h3>
