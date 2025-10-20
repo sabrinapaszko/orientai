@@ -75,9 +75,8 @@
           </div>
           <div class="footer-section">
             <h3>Contato</h3>
-            <p>contato@orientai.com</p>
-            <p>(11) 99999-9999</p>
-            <p>São Paulo, SP - Brasil</p>
+            <p>orient.ai.behring@gmail.com</p>
+            <p>21 989144595</p>
           </div>
         </div>
         <div class="footer-bottom">
