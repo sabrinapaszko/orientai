@@ -3,7 +3,7 @@
     <section class="hero">
       <div class="hero-content">
         <h1>
-          Descubra seu futuro com a <span class="gradient-text">OrientAI</span>
+          Descubra seu futuro com o <span class="gradient-text">OrientAI</span>
         </h1>
         <p>
           IA que entende seu perfil e indica o caminho ideal para sua carreira
@@ -48,7 +48,7 @@
     <section class="cta">
       <div class="container">
         <h2>Pronto para descobrir seu futuro?</h2>
-        <p>Junte-se a milhares de estudantes que já encontraram seu caminho com a OrientAI</p>
+        <p>Junte-se a nossos estudantes que já encontraram seu caminho com a OrientAI</p>
              <a href="#" class="btn btn-primary" @click="$emit('iniciar-questionario')">
                Começar Agora - É Grátis
              </a>
